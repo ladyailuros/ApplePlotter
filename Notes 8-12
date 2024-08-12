@@ -1,0 +1,13 @@
+Research Notes - 8/12/2024 
+
+Took the plotter apart - checked the spring for the pen change system, it seems intact.  Noted that there were empty sockets on the control board (see pictures)  
+Ran self-test with no pen holder installed and cover off and checked out fine. 
+Ran self test with pen holder installed and vocer off and checked out fine. 
+Ran self test with cover on and pen holder installed and checked out fine. 
+
+Current hypothesis is that the cracks in the pen holder, upon adding the load of pens, are making the rotation system malfunction becuase of how they are loaded -
+not having them loaded perfectly may be throwing something off.  Need an intact pen holder to compare, need to look for one. 
+
+I wonder if more RAM was installed in the empty RAM socket on the control board if it would increase the buffer size. 
+
+Also empty ROM sockes, what was Apple planning??? 
